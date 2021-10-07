@@ -1,1 +1,0 @@
-Computer Vision Camp Homework
